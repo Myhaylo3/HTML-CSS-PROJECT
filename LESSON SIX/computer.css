@@ -1,0 +1,79 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: snow;
+    font-size: 2vw;
+    font-family: "Arial", serif;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.a_add {
+    width: 100vw;
+    height: 34vh;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.b_f_add {
+    display: flex;
+    width: 100vw;
+    gap: 10px;
+}
+
+.b_add {
+    width: 70vw;
+    height: 33vh;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+.f_add {
+    width: 44vw;
+    height: 66vh;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.b_e_add {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 70vw;
+    height: 66vh;
+}
+
+.c_e_add {
+    display: flex;
+    width: 70vw;
+    height: 33vh;
+    gap: 10px;
+}
+
+.c_add, .d_add, .e_add {
+
+    width: 33vw;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}

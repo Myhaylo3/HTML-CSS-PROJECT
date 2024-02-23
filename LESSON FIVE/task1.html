@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            /*width: 70vw*/
+            gap: 10vh;
+        }
+        .card-image{
+            height: 10vh;
+            width: 10vh;
+            border-radius: 50%;
+            background: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 0.5vh solid #554C4C;
+            position: absolute;
+            top: -10%;
+        }
+        .card {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            height: 50vh;
+            width: 15vw;
+            border: 0.5vh solid #554C4C;
+            background: rgba(217, 217, 217, 0.30);
+            text-align: center;
+            position: relative;
+        }
+        .card h1 {
+            text-align: center;
+            font-size:2vw;
+        }
+        .card p {
+            text-align: center;
+            font-size: 1.2vw;
+        }
+        .card-image img{
+            width: 7vh;
+        }
+    </style>
+
+</head>
+<body>
+<div class="container">
+    <div class="card">
+        <h1>Lorem</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        <div class="card-image"><img src="image1.png" alt="photo one"></div>
+    </div>
+
+    <div class="card">
+        <h1>Lorem </h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        <div class="card-image"><img src="image2.png" alt="photo two"></div>
+    </div>
+
+    <div class="card">
+        <h1>Lorem</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        <div class="card-image"><img src="image3.png" alt="photo three"></div>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,40 @@
+@media screen and (min-width: 300px) and (max-width: 500px) {
+
+    .container {
+        font-size: 4vw;
+    }
+    .a_add {
+        width: 100vw;
+        height: 20vh;
+    }
+
+    .b_f_add {
+        flex-direction: column;
+
+    }
+
+    .b_e_add {
+        width: 100vw;
+        height: 60vh;
+    }
+
+    .b_add {
+        width: 100vw;
+        height: 40vh;
+    }
+
+    .c_e_add {
+        width: 100vw;
+        height: 20vh;
+
+    }
+
+    .c_add, .d_add, .e_add {
+        margin: 20px;
+    }
+
+    .f_add {
+        width: 100vw;
+        height: 20vh;
+    }
+}

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: center;
+            background-color: rgb(255, 255, 255);
+            padding: 30px;
+            gap: 20px;
+            width: 70%;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .square1 {
+            width: 38%;
+            height: 250px;
+            border-radius: 20px;
+            background-color: #699BF7;
+            display: flex;
+            flex-direction: column;
+
+        }
+
+        .square2 {
+            width: 38%;
+            height: 250px;
+            border-radius: 20px;
+            background-color: #C7B9FF;
+            display: flex;
+            flex-direction: column;
+
+        }
+
+        .square3 {
+            width: 38%;
+            height: 250px;
+            border-radius: 20px;
+            background-color: #FFC700;
+            display: flex;
+            flex-direction: column;
+
+        }
+
+        .square4 {
+            width: 38%;
+            height: 250px;
+            border-radius: 20px;
+            background-color: #FF8577;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+
+        h2,  h4, a {
+            font-family: 'Quarion', sans-serif;
+        }
+
+        .title {
+            font-weight: 300;
+            margin-top: 30px;
+            margin-left: 20px;
+        }
+
+        .body {
+            font-weight: bolder;
+            margin-left: 20px;
+            margin-top: -10px;
+            font-size: 28px;
+        }
+
+        .linked {
+            margin-top: 70px;
+            font-weight: 200;
+            margin-left: 20px;
+            color: aliceblue;
+            background-color: black;
+            padding: 5px;
+            border-radius: 5px;
+        }
+
+    </style>
+    <title>Colorful Squares</title>
+</head>
+<body>
+<div class="container">
+    <div class="square1">
+
+        <h4 class="title">Tutorial video</h4>
+        <h2 class="body">Dev Mode tutorial</h2>
+        <a class="linked" href="#">Watch the video</a>
+    </div>
+    <div class="square2">
+
+        <h4 class="title">Blog post</h4>
+        <h2 class="body">Making Figma better for developers</h2>
+        <a class="linked" href="#">Go to the blog</a>
+    </div>
+    <div class="square3">
+
+        <h4 class="title">Help center</h4>
+        <h2 class="body">Guide to Dev Mode</h2>
+        <a class="linked" href="#">Read the article</a>
+    </div>
+    <div class="square4">
+
+        <h4 class="title">Playground</h4>
+        <h2 class="body">Prototype with variables</h2>
+        <a class="linked" href="#">Go to the playground</a>
+    </div>
+</div>
+</body>
+</html>

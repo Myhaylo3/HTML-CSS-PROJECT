@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d422a53-2cf0-46fd-9acf-4eaea34fa6af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-CSS-PROJECT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home works 03-04 02 2024 додаткове/Task 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home works 03-04 02 2024 додаткове/Task 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home works 03-04 02 2024 додаткове/Task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON FIVE/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON FIVE/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON FIVE/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON FIVE/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON FIVE/task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON FOUR/STYLE.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON FOUR/image 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON FOUR/image 6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON FOUR/image10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON FOUR/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON FOUR/image7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON FOUR/image8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON FOUR/image9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON FOUR/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON FOUR/task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON ONE/Task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON SIX/Task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON SIX/Task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON SIX/computer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON SIX/iphone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON SIX/laptop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON SIX/phone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON THREE/Task1.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON THREE/Task1.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON THREE/Task1.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON THREE/Task1.4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON THREE/Task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON THREE/Task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON THREE/Task3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON TWO/Task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON TWO/Task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LESSON TWO/Task3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/box.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/image10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/image11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/image12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/image13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/image14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/image15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/image16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/image5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/image6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/image7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/image8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/image9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT HTML-CSS/проект.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2cm1MgiC2zeJsjaEUQTQ2Ek5qkT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\IdeaProjects\HTML-CSS-PROJECT\LESSON FOUR" />
+      <recent name="C:\Users\Acer\IdeaProjects\HTML-CSS-PROJECT\LESSON FIVE" />
+      <recent name="C:\Users\Acer\IdeaProjects\HTML-CSS-PROJECT\PROJECT HTML-CSS" />
+      <recent name="C:\Users\Acer\IdeaProjects\HTML-CSS-PROJECT\PROJECT HTML-CSS\фото" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d422a53-2cf0-46fd-9acf-4eaea34fa6af" name="Changes" comment="" />
+      <created>1708701894137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708701894137</updated>
+      <workItem from="1708701895312" duration="2728000" />
+      <workItem from="1708720732769" duration="1247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

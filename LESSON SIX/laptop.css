@@ -1,0 +1,48 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    color: snow;
+    font-size: 2vw;
+    font-family: "Arial", serif;
+}
+
+.a_add{
+    width: 99%;
+    height: 30vh;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.b_c_add{
+    display: flex;
+    width: 99%;
+    gap: 20px;
+}
+
+.b_add{
+    width: 70%;
+    height: 70vh;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.c_add{
+    width: 30%;
+    height: 70vh;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}

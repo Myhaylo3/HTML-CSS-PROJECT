@@ -1,0 +1,21 @@
+@media screen and (min-width: 300px) and (max-width: 500px) {
+    .a_add {
+        width: 100vw;
+        height: 20vh;
+    }
+
+    .b_c_add{
+        flex-direction: column;
+        height: 70vh;
+    }
+
+    .b_add {
+        width: 100vw;
+        height: 60vh;
+    }
+
+    .c_add {
+        width: 100vw;
+        height: 20vh;
+    }
+}
